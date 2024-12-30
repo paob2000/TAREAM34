@@ -1,4 +1,6 @@
 #Esta es la creacion de un archivo llamada prueba.py
 
+#Creacion de mensaje personalizado
 
-print("Hello World")
+nombre = input("Ingrese su nombre...")
+print("Hello ",nombre)
